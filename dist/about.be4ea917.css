@@ -1,13 +1,15 @@
 body {
   background: blue;
   color: white;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
 }
 
 .foto {
   height: 300px;
   width: 300px;
-  background-image: url("../images/snap.png");
+  background-image: url("/snap.8e911f22.png");
   background-size: cover;
   background-position: 50%;
 }
+
+/*# sourceMappingURL=/about.be4ea917.css.map */
