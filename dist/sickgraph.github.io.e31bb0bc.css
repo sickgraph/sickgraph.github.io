@@ -1,0 +1,13 @@
+body {
+  background: blue;
+}
+
+.foto {
+  height: 300px;
+  width: 300px;
+  background-image: url("/snap.8e911f22.png");
+  background-size: cover;
+  background-position: 50%;
+}
+
+/*# sourceMappingURL=/sickgraph.github.io.e31bb0bc.css.map */

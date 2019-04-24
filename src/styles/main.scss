@@ -1,0 +1,11 @@
+body {
+  background: blue;
+}
+
+.foto {
+  height: 300px;
+  width: 300px;
+  background-image: url("../images/snap.png");
+  background-size: cover;
+  background-position: 50%;
+}
